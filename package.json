@@ -1,0 +1,22 @@
+{
+  "name": "jsj-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantrinhbca/js-algorithms.git"
+  },
+  "author": "quaenb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quantrinhbca/js-algorithms/issues"
+  },
+  "homepage": "https://github.com/quantrinhbca/js-algorithms#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
